@@ -23,12 +23,11 @@ Pero la situación no es grave. Si la biología no ha necesitado una definición
 
 ### ¿Qué es la mente?
 
-El concepto de mente es muy antiguo y ha tenido significados en distintas 
-culturas y tiempos, pero podemos decir que está relacionada con el pensamiento. Ha habido debates de si sólo los humanos tenemos mente, o también otras especies, o si las máquinas pueden tenerla.
+El concepto de mente es muy antiguo y ha tenido significados en distintas culturas y tiempos, pero podemos decir que está relacionada con el pensamiento. Ha habido debates de si sólo los humanos tenemos mente, o también otras especies, o si las máquinas pueden tenerla.
 
 Es un concepto amplio, que tal vez sería mejor evitarlo para no caer en ambigüedades; pero también puede ser útil en el contexto de inteligencia artificial. Si consideramos el pensamiento como un procesamiento de información, en principio las computadoras podrían tener mente.
 
-Algo que todavía se debate es dónde está la mente.  Intuitivamente podríamos decir que en el cerebro, pero ***un cerebro aislado no puede exhibir procesos mentales, se requiere de interacciones con el cuerpo y el entorno***. Mas aún, como lo sugirieron **Andy Clark** y **David Chalmers**, la mente puede extenderse más allá del cuerpo.
+***Algo que todavía se debate es dónde está la mente.  Intuitivamente podríamos decir que en el cerebro***, pero ***un cerebro aislado no puede exhibir procesos mentales, se requiere de interacciones con el cuerpo y el entorno***. Mas aún, como lo sugirieron **Andy Clark** y **David Chalmers**, la mente puede extenderse más allá del cuerpo.
 
 Si usamos herramientas para realizar procesos mentales que en otras circunstancias realiza nuestro cerebro, una nota para recordar, una calculadora, podemos decir que estos objetos externos son parte de nuestra mente. De cualquier manera, aunque la mente requiere de un sustrato físico, es un proceso, por lo que también podríamos concluir que la pregunta “¿dónde está la mente?” no tiene sentido.
 
@@ -47,7 +46,7 @@ En el método sintético, también tenemos observaciones de un fenómeno natural
 
 La inteligencia artificial ha servido no sólo para construir máquinas inteligentes, sino también para comprender mejor la inteligencia natural; en otras palabras, construimos sistemas para corroborar teorías. Como dijo el doctor **José Negrete**, reconocido como el iniciador de la inteligencia artificial en México:
 
-> 	“***La mejor manera de entender al hombre es construirlo***”. 
+> “***La mejor manera de entender al hombre es construirlo***”. 
 
 ---
 # Predicción y adaptación (*03:00 min*)
@@ -64,9 +63,7 @@ En problemas de optimización, tratamos de encontrar el mejor valor entre todos 
 
 Por ejemplo, si tenemos dos variables $XY$ de entrada y una de salida, de tal manera que $Z$ es igual a una función de $XY$, podemos representar su relación en tres dimensiones: $X$, $Y$ y $Z$. A este espacio de parámetros también se le conoce como "**Paisaje de aptitud**", ***porque podemos encontrar picos y valles, donde la altura de cada conjunto de coordenadas de entrada nos determinan qué tan buena es la salida***.
 
-Con este formalismo, para resolver un problema, sólo tenemos que encontrar el valor óptimo de las variables de entrada. Esto no es trivial, como veremos en otros cursos, pero una vez que encontremos una solución suficientemente buena, ya podremos predecir qué decisión tomar y en qué momento, para lograr el mejor desempeño posible. Esto es si el problema no cambia.
-
-***Los problemas estáticos nos dan espacios estacionarios***, mientras que ***los problemas dinámicos nos dan espacios no estacionarios***. ***Para los espacios estacionarios, necesitamos predicción***; mientras que ***para los espacios no estacionarios, necesitamos adaptación***.
+Con este formalismo, para resolver un problema, sólo tenemos que encontrar el valor óptimo de las variables de entrada. Esto no es trivial, como veremos en otros cursos, pero una vez que encontremos una solución suficientemente buena, ya podremos predecir qué decisión tomar y en qué momento, para lograr el mejor desempeño posible. Esto es si el problema no cambia. ***Los problemas estáticos nos dan espacios estacionarios***, mientras que ***los problemas dinámicos nos dan espacios no estacionarios***. ***Para los espacios estacionarios, necesitamos predicción***; mientras que ***para los espacios no estacionarios, necesitamos adaptación***.
 >
 > - ***Problemas estáticos --> Espacios estacionarios --> Predicción*** 
 > - ***Problemas dinámicos --> Espacios no estacionarios --> Adaptación***
@@ -90,7 +87,7 @@ Para los espacios no estacionarios, mencionamos la adaptación, de la cual verem
 
 **Escala temporal de los espacios no estacionarios (a través de adaptación)**:
 
-- En tiempos **cortos**: ***Aprendizaje****.
+- En tiempos **cortos**: ***Aprendizaje***.
 - Durante una **vida**: ***Desarrollo***.
 - Durante varias **generaciones**: ***Evolución***.
 
